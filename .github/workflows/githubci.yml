@@ -62,7 +62,7 @@ jobs:
          # - 'waveshare_nrf52840_eval'
          # - 'xiao_nrf52840_ble'
          # - 'xiao_nrf52840_ble_sense'
-           - 'Nameless_Ergo'         
+           - 'nameless'         
     steps:
     - name: Setup Python
       uses: actions/setup-python@v3
