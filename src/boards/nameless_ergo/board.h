@@ -22,8 +22,8 @@
  * THE SOFTWARE.
  */
 
-#ifndef NAMELESS_ERGO_H
-#define NAMELESS_ERGO_H
+#ifndef NAMELESS_ERGO
+#define NAMELESS_ERGO
 
 #define _PINNUM(port, pin)    ((port)*32 + (pin))
 
@@ -62,4 +62,4 @@
 #define UF2_BOARD_ID      "Nameless_Ergo"
 #define UF2_INDEX_URL     "https://social.mpwr.xyz"
 
-#endif // NAMELESS_ERGO_H
+#endif // NAMELESS_ERGO
