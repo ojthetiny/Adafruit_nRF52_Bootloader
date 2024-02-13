@@ -58,7 +58,7 @@
 #define USB_DESC_CDC_ONLY_PID  0x0029
 
 #define UF2_PRODUCT_NAME  "Nameless_Ergo"
-#define UF2_VOLUME_LABEL  "NAMELESS_ERGO"
+#define UF2_VOLUME_LABEL  "NLESS"
 #define UF2_BOARD_ID      "Nameless_Ergo"
 #define UF2_INDEX_URL     "https://social.mpwr.xyz"
 
