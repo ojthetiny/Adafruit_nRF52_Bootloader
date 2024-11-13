@@ -62,6 +62,8 @@ jobs:
           #  - 'waveshare_nrf52840_eval'
           #  - 'xiao_nrf52840_ble'
           #  - 'xiao_nrf52840_ble_sense'
+          #  - 'nameless_ergo'
+          #  - 'bella'
              - 'eclipse'
                     
     steps:
