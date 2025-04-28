@@ -63,8 +63,8 @@ jobs:
           #  - 'xiao_nrf52840_ble'
           #  - 'xiao_nrf52840_ble_sense'
           #  - 'nameless_ergo'
-          #  - 'bella'
-             - 'eclipse'
+             - 'bella'
+          #  - 'eclipse'
                     
     steps:
     - name: Setup Python
